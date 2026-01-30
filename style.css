@@ -266,7 +266,7 @@ body {
     .img-cart {
         max-width: 100%;
         flex-direction: row;
-        gap: 5px;
+        gap: 10px;
         margin-bottom: 0;
     }
 
@@ -274,12 +274,15 @@ body {
     .right-img {
         height: 250px;
         width: 100%;
+        border-radius: 10px;
     }
 
     .des-cart {
         max-width: 100%;
         padding: 30px 20px;
         min-height: auto;
+        margin-top: 20px;
+        border-radius: 10px;
     }
 
     .cta-content {
